@@ -1,3 +1,5 @@
+Họ và Tên: Nguyễn Anh Xuân
+Mã Sinh Viên: 24810320189
 Phần I — Lý thuyết
 
 1) Kiểu giá trị vs Kiểu tham chiếu (cơ chế lưu trữ)
