@@ -9,8 +9,6 @@
 
 ---
 
-## TỔNG HỢP NỘI DUNG VÀ HƯỚNG DẪN CODE LOGIC
-
 ### Bài 1: Máy tính tính cước dịch vụ & Giảm giá (Service Charge Calculator)
 - **Mục tiêu:** Form, TextBox, Button, validate kiểu số, tính toán số tiền có chiết khấu.
 - **File code:** [`Bai1/Form1.cs`](./Bai1/Form1.cs)
