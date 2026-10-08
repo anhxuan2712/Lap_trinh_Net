@@ -1,0 +1,16 @@
+D:\EPU\laptrinhnet\Bai kiem tra 01\Bai tap thuc hanh lap trinh OOP\Bai tap thuc hanh lap trinh OOP\bin\Debug\net10.0\Bai tap thuc hanh lap trinh OOP.exe
+D:\EPU\laptrinhnet\Bai kiem tra 01\Bai tap thuc hanh lap trinh OOP\Bai tap thuc hanh lap trinh OOP\bin\Debug\net10.0\Bai tap thuc hanh lap trinh OOP.deps.json
+D:\EPU\laptrinhnet\Bai kiem tra 01\Bai tap thuc hanh lap trinh OOP\Bai tap thuc hanh lap trinh OOP\bin\Debug\net10.0\Bai tap thuc hanh lap trinh OOP.runtimeconfig.json
+D:\EPU\laptrinhnet\Bai kiem tra 01\Bai tap thuc hanh lap trinh OOP\Bai tap thuc hanh lap trinh OOP\bin\Debug\net10.0\Bai tap thuc hanh lap trinh OOP.dll
+D:\EPU\laptrinhnet\Bai kiem tra 01\Bai tap thuc hanh lap trinh OOP\Bai tap thuc hanh lap trinh OOP\bin\Debug\net10.0\Bai tap thuc hanh lap trinh OOP.pdb
+D:\EPU\laptrinhnet\Bai kiem tra 01\Bai tap thuc hanh lap trinh OOP\Bai tap thuc hanh lap trinh OOP\obj\Debug\net10.0\Bai tap thuc hanh lap trinh OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\EPU\laptrinhnet\Bai kiem tra 01\Bai tap thuc hanh lap trinh OOP\Bai tap thuc hanh lap trinh OOP\obj\Debug\net10.0\Bai tap thuc hanh lap trinh OOP.AssemblyInfoInputs.cache
+D:\EPU\laptrinhnet\Bai kiem tra 01\Bai tap thuc hanh lap trinh OOP\Bai tap thuc hanh lap trinh OOP\obj\Debug\net10.0\Bai tap thuc hanh lap trinh OOP.AssemblyInfo.cs
+D:\EPU\laptrinhnet\Bai kiem tra 01\Bai tap thuc hanh lap trinh OOP\Bai tap thuc hanh lap trinh OOP\obj\Debug\net10.0\Bai tap thuc hanh lap trinh OOP.csproj.CoreCompileInputs.cache
+D:\EPU\laptrinhnet\Bai kiem tra 01\Bai tap thuc hanh lap trinh OOP\Bai tap thuc hanh lap trinh OOP\obj\Debug\net10.0\Bai tap thuc hanh lap trinh OOP.sourcelink.json
+D:\EPU\laptrinhnet\Bai kiem tra 01\Bai tap thuc hanh lap trinh OOP\Bai tap thuc hanh lap trinh OOP\obj\Debug\net10.0\Bai tap thuc hanh lap trinh OOP.dll
+D:\EPU\laptrinhnet\Bai kiem tra 01\Bai tap thuc hanh lap trinh OOP\Bai tap thuc hanh lap trinh OOP\obj\Debug\net10.0\refint\Bai tap thuc hanh lap trinh OOP.dll
+D:\EPU\laptrinhnet\Bai kiem tra 01\Bai tap thuc hanh lap trinh OOP\Bai tap thuc hanh lap trinh OOP\obj\Debug\net10.0\Bai tap thuc hanh lap trinh OOP.pdb
+D:\EPU\laptrinhnet\Bai kiem tra 01\Bai tap thuc hanh lap trinh OOP\Bai tap thuc hanh lap trinh OOP\obj\Debug\net10.0\Bai tap thuc hanh lap trinh OOP.genruntimeconfig.cache
+D:\EPU\laptrinhnet\Bai kiem tra 01\Bai tap thuc hanh lap trinh OOP\Bai tap thuc hanh lap trinh OOP\obj\Debug\net10.0\ref\Bai tap thuc hanh lap trinh OOP.dll
+D:\EPU\laptrinhnet\Bai kiem tra 01\Bai tap thuc hanh lap trinh OOP\Bai tap thuc hanh lap trinh OOP\obj\Debug\net10.0\Bai tap .354E874F.Up2Date

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Bai tap thuc hanh lap trinh OOP/1.0.0": {
+        "runtime": {
+          "Bai tap thuc hanh lap trinh OOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai tap thuc hanh lap trinh OOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

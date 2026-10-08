@@ -1,0 +1,36 @@
+D:\EPU\laptrinhnet\baithuchanh windowfrom gui\baithuchanh windowfrom gui\bin\Debug\net10.0-windows\baithuchanh windowfrom gui.exe
+D:\EPU\laptrinhnet\baithuchanh windowfrom gui\baithuchanh windowfrom gui\bin\Debug\net10.0-windows\baithuchanh windowfrom gui.deps.json
+D:\EPU\laptrinhnet\baithuchanh windowfrom gui\baithuchanh windowfrom gui\bin\Debug\net10.0-windows\baithuchanh windowfrom gui.runtimeconfig.json
+D:\EPU\laptrinhnet\baithuchanh windowfrom gui\baithuchanh windowfrom gui\bin\Debug\net10.0-windows\baithuchanh windowfrom gui.dll
+D:\EPU\laptrinhnet\baithuchanh windowfrom gui\baithuchanh windowfrom gui\bin\Debug\net10.0-windows\baithuchanh windowfrom gui.pdb
+D:\EPU\laptrinhnet\baithuchanh windowfrom gui\baithuchanh windowfrom gui\obj\Debug\net10.0-windows\baithuchanh_windowfrom_gui.Form1.resources
+D:\EPU\laptrinhnet\baithuchanh windowfrom gui\baithuchanh windowfrom gui\obj\Debug\net10.0-windows\baithuchanh windowfrom gui.csproj.GenerateResource.cache
+D:\EPU\laptrinhnet\baithuchanh windowfrom gui\baithuchanh windowfrom gui\obj\Debug\net10.0-windows\baithuchanh windowfrom gui.GeneratedMSBuildEditorConfig.editorconfig
+D:\EPU\laptrinhnet\baithuchanh windowfrom gui\baithuchanh windowfrom gui\obj\Debug\net10.0-windows\baithuchanh windowfrom gui.AssemblyInfoInputs.cache
+D:\EPU\laptrinhnet\baithuchanh windowfrom gui\baithuchanh windowfrom gui\obj\Debug\net10.0-windows\baithuchanh windowfrom gui.AssemblyInfo.cs
+D:\EPU\laptrinhnet\baithuchanh windowfrom gui\baithuchanh windowfrom gui\obj\Debug\net10.0-windows\baithuchanh windowfrom gui.csproj.CoreCompileInputs.cache
+D:\EPU\laptrinhnet\baithuchanh windowfrom gui\baithuchanh windowfrom gui\obj\Debug\net10.0-windows\baithuchanh windowfrom gui.sourcelink.json
+D:\EPU\laptrinhnet\baithuchanh windowfrom gui\baithuchanh windowfrom gui\obj\Debug\net10.0-windows\baithuchanh windowfrom gui.dll
+D:\EPU\laptrinhnet\baithuchanh windowfrom gui\baithuchanh windowfrom gui\obj\Debug\net10.0-windows\refint\baithuchanh windowfrom gui.dll
+D:\EPU\laptrinhnet\baithuchanh windowfrom gui\baithuchanh windowfrom gui\obj\Debug\net10.0-windows\baithuchanh windowfrom gui.pdb
+D:\EPU\laptrinhnet\baithuchanh windowfrom gui\baithuchanh windowfrom gui\obj\Debug\net10.0-windows\baithuchanh windowfrom gui.genruntimeconfig.cache
+D:\EPU\laptrinhnet\baithuchanh windowfrom gui\baithuchanh windowfrom gui\obj\Debug\net10.0-windows\ref\baithuchanh windowfrom gui.dll
+D:\EPU\laptrinhnet\baithuchanh windowfrom gui\baithuchanh windowfrom gui\obj\Debug\net10.0-windows\baithuch.9E0AD833.Up2Date
+D:\EPU\laptrinhnet\Bai kiem tra 01\baithuchanh windowfrom gui\baithuchanh windowfrom gui\bin\Debug\net10.0-windows\baithuchanh windowfrom gui.exe
+D:\EPU\laptrinhnet\Bai kiem tra 01\baithuchanh windowfrom gui\baithuchanh windowfrom gui\bin\Debug\net10.0-windows\baithuchanh windowfrom gui.deps.json
+D:\EPU\laptrinhnet\Bai kiem tra 01\baithuchanh windowfrom gui\baithuchanh windowfrom gui\bin\Debug\net10.0-windows\baithuchanh windowfrom gui.runtimeconfig.json
+D:\EPU\laptrinhnet\Bai kiem tra 01\baithuchanh windowfrom gui\baithuchanh windowfrom gui\bin\Debug\net10.0-windows\baithuchanh windowfrom gui.dll
+D:\EPU\laptrinhnet\Bai kiem tra 01\baithuchanh windowfrom gui\baithuchanh windowfrom gui\bin\Debug\net10.0-windows\baithuchanh windowfrom gui.pdb
+D:\EPU\laptrinhnet\Bai kiem tra 01\baithuchanh windowfrom gui\baithuchanh windowfrom gui\obj\Debug\net10.0-windows\baithuchanh_windowfrom_gui.Form1.resources
+D:\EPU\laptrinhnet\Bai kiem tra 01\baithuchanh windowfrom gui\baithuchanh windowfrom gui\obj\Debug\net10.0-windows\baithuchanh windowfrom gui.csproj.GenerateResource.cache
+D:\EPU\laptrinhnet\Bai kiem tra 01\baithuchanh windowfrom gui\baithuchanh windowfrom gui\obj\Debug\net10.0-windows\baithuchanh windowfrom gui.GeneratedMSBuildEditorConfig.editorconfig
+D:\EPU\laptrinhnet\Bai kiem tra 01\baithuchanh windowfrom gui\baithuchanh windowfrom gui\obj\Debug\net10.0-windows\baithuchanh windowfrom gui.AssemblyInfoInputs.cache
+D:\EPU\laptrinhnet\Bai kiem tra 01\baithuchanh windowfrom gui\baithuchanh windowfrom gui\obj\Debug\net10.0-windows\baithuchanh windowfrom gui.AssemblyInfo.cs
+D:\EPU\laptrinhnet\Bai kiem tra 01\baithuchanh windowfrom gui\baithuchanh windowfrom gui\obj\Debug\net10.0-windows\baithuchanh windowfrom gui.csproj.CoreCompileInputs.cache
+D:\EPU\laptrinhnet\Bai kiem tra 01\baithuchanh windowfrom gui\baithuchanh windowfrom gui\obj\Debug\net10.0-windows\baithuchanh windowfrom gui.sourcelink.json
+D:\EPU\laptrinhnet\Bai kiem tra 01\baithuchanh windowfrom gui\baithuchanh windowfrom gui\obj\Debug\net10.0-windows\baithuchanh windowfrom gui.dll
+D:\EPU\laptrinhnet\Bai kiem tra 01\baithuchanh windowfrom gui\baithuchanh windowfrom gui\obj\Debug\net10.0-windows\refint\baithuchanh windowfrom gui.dll
+D:\EPU\laptrinhnet\Bai kiem tra 01\baithuchanh windowfrom gui\baithuchanh windowfrom gui\obj\Debug\net10.0-windows\baithuchanh windowfrom gui.pdb
+D:\EPU\laptrinhnet\Bai kiem tra 01\baithuchanh windowfrom gui\baithuchanh windowfrom gui\obj\Debug\net10.0-windows\baithuchanh windowfrom gui.genruntimeconfig.cache
+D:\EPU\laptrinhnet\Bai kiem tra 01\baithuchanh windowfrom gui\baithuchanh windowfrom gui\obj\Debug\net10.0-windows\ref\baithuchanh windowfrom gui.dll
+D:\EPU\laptrinhnet\Bai kiem tra 01\baithuchanh windowfrom gui\baithuchanh windowfrom gui\obj\Debug\net10.0-windows\baithuch.9E0AD833.Up2Date
