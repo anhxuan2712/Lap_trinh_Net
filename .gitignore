@@ -1,0 +1,51 @@
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio cache & temporary files
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.userprefs
+*.dbmdl
+*.jsproj.user
+*.vcxproj.user
+
+## Visual Studio Code
+.vscode/
+
+## Rider / JetBrains
+.idea/
+*.sln.iml
+
+## Auto-generated files
+Generated Files/
+[Tt]emp/
+*.orig
+*.bak
+
+## NuGet packages
+*.nupkg
+*.snupkg
+**/packages/*
+!**/packages/build/
+*.nuget.props
+*.nuget.targets
+project.lock.json
+project.assets.json
+
+## Publish profiles
+FolderProfile.pubxml.user
