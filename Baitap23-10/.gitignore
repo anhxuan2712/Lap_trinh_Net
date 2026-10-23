@@ -1,0 +1,26 @@
+## Visual Studio temporary and user files
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.sln.docstates
+
+## Build outputs
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio Code & IDE caches
+.vscode/
+_ReSharper*/
+*.DotSettings.user
+
+## NuGet packages
+packages/
+*.nupkg
+
+## Backup and auto-generated files
+*.bak
+*.cache
