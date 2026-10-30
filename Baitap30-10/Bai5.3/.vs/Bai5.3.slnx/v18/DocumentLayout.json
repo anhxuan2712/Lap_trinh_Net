@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EPU\\laptrinhnet\\Baitap 5.3-5.4-5.5\\Bai5.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CACA1D7-8BF9-DEE0-E5AC-382A9C155EED}|Bai5.3\\Bai5.3.csproj|D:\\EPU\\laptrinhnet\\Baitap 5.3-5.4-5.5\\Bai5.3\\bai5.3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3CACA1D7-8BF9-DEE0-E5AC-382A9C155EED}|Bai5.3\\Bai5.3.csproj|solutionrelative:bai5.3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CACA1D7-8BF9-DEE0-E5AC-382A9C155EED}|Bai5.3\\Bai5.3.csproj|d:\\epu\\laptrinhnet\\baitap 5.3-5.4-5.5\\bai5.3\\bai5.3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CACA1D7-8BF9-DEE0-E5AC-382A9C155EED}|Bai5.3\\Bai5.3.csproj|solutionrelative:bai5.3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58586D5-4209-4B4B-BBAC-27B4FFB114BB}|Bai5.3\\Bai5.3.csproj|D:\\EPU\\laptrinhnet\\Baitap 5.3-5.4-5.5\\Bai5.3\\bai5.3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D58586D5-4209-4B4B-BBAC-27B4FFB114BB}|Bai5.3\\Bai5.3.csproj|solutionrelative:bai5.3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CACA1D7-8BF9-DEE0-E5AC-382A9C155EED}|Bai5.3\\Bai5.3.csproj|d:\\epu\\laptrinhnet\\baitap 5.3-5.4-5.5\\bai5.3\\bai5.3\\caferepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CACA1D7-8BF9-DEE0-E5AC-382A9C155EED}|Bai5.3\\Bai5.3.csproj|solutionrelative:bai5.3\\caferepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1783089399:0:{66ccb258-66db-43d5-b3af-beeba42f32ec}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\EPU\\laptrinhnet\\Baitap 5.3-5.4-5.5\\Bai5.3\\Bai5.3\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai5.3\\Form1.cs",
+              "ToolTip": "D:\\EPU\\laptrinhnet\\Baitap 5.3-5.4-5.5\\Bai5.3\\Bai5.3\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai5.3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T07:04:48.479Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\EPU\\laptrinhnet\\Baitap 5.3-5.4-5.5\\Bai5.3\\Bai5.3\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai5.3\\Form1.cs",
+              "ToolTip": "D:\\EPU\\laptrinhnet\\Baitap 5.3-5.4-5.5\\Bai5.3\\Bai5.3\\Form1.cs",
+              "RelativeToolTip": "Bai5.3\\Form1.cs",
+              "ViewState": "AgIAAAkCAAAAAAAAAAAkwBgCAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T06:52:03.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CafeRepository.cs",
+              "DocumentMoniker": "D:\\EPU\\laptrinhnet\\Baitap 5.3-5.4-5.5\\Bai5.3\\Bai5.3\\CafeRepository.cs",
+              "RelativeDocumentMoniker": "Bai5.3\\CafeRepository.cs",
+              "ToolTip": "D:\\EPU\\laptrinhnet\\Baitap 5.3-5.4-5.5\\Bai5.3\\Bai5.3\\CafeRepository.cs",
+              "RelativeToolTip": "Bai5.3\\CafeRepository.cs",
+              "ViewState": "AgIAAJ4BAAAAAAAAAAAuwKoBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T06:49:59.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\EPU\\laptrinhnet\\Baitap 5.3-5.4-5.5\\Bai5.3\\Bai5.3\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai5.3\\Form1.cs",
+              "ToolTip": "D:\\EPU\\laptrinhnet\\Baitap 5.3-5.4-5.5\\Bai5.3\\Bai5.3\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai5.3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T06:39:09.132Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
