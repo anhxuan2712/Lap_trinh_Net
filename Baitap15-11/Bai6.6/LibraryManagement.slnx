@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Database/">
+    <File Path="Database/ScriptDB.sql" />
+    <File Path="Database/ScriptDB_SQLServer.sql" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="LibraryManagement/LibraryManagement.csproj" />
+</Solution>
