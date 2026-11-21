@@ -1,0 +1,82 @@
+CREATE DATABASE IF NOT EXISTS KaraokeDB
+	CHARACTER SET utf8mb4
+	COLLATE utf8mb4_unicode_ci;
+
+USE KaraokeDB;
+
+CREATE TABLE IF NOT EXISTS PhongHat
+(
+	MaPhong INT NOT NULL AUTO_INCREMENT,
+	TenPhong VARCHAR(50) NOT NULL,
+	LoaiPhong VARCHAR(30) NULL,
+	GiaTheoGio DECIMAL(18, 2) NOT NULL DEFAULT 0,
+	TrangThai VARCHAR(20) NOT NULL DEFAULT 'Trống',
+	PRIMARY KEY (MaPhong),
+	CONSTRAINT CK_PhongHat_GiaTheoGio CHECK (GiaTheoGio >= 0),
+	CONSTRAINT CK_PhongHat_TrangThai CHECK (TrangThai IN ('Trống', 'Đang hát'))
+) ENGINE = InnoDB;
+
+CREATE TABLE IF NOT EXISTS DichVu
+(
+	MaDV INT NOT NULL AUTO_INCREMENT,
+	TenDV VARCHAR(100) NOT NULL,
+	DonGia DECIMAL(18, 2) NOT NULL DEFAULT 0,
+	TonKho INT NOT NULL DEFAULT 0,
+	PRIMARY KEY (MaDV),
+	CONSTRAINT CK_DichVu_DonGia CHECK (DonGia >= 0),
+	CONSTRAINT CK_DichVu_TonKho CHECK (TonKho >= 0)
+) ENGINE = InnoDB;
+
+CREATE TABLE IF NOT EXISTS HoaDon
+(
+	MaHD INT NOT NULL AUTO_INCREMENT,
+	MaPhong INT NOT NULL,
+	GioVao DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+	GioRa DATETIME NULL,
+	TongTienPhong DECIMAL(18, 2) NOT NULL DEFAULT 0,
+	TongTienDichVu DECIMAL(18, 2) NOT NULL DEFAULT 0,
+	TrangThai TINYINT(1) NOT NULL DEFAULT 0,
+	PRIMARY KEY (MaHD),
+	KEY IX_HoaDon_Phong_TrangThai (MaPhong, TrangThai),
+	CONSTRAINT FK_HoaDon_PhongHat FOREIGN KEY (MaPhong)
+		REFERENCES PhongHat (MaPhong),
+	CONSTRAINT CK_HoaDon_TrangThai CHECK (TrangThai IN (0, 1)),
+	CONSTRAINT CK_HoaDon_TongTien CHECK (TongTienPhong >= 0 AND TongTienDichVu >= 0)
+) ENGINE = InnoDB;
+
+CREATE TABLE IF NOT EXISTS ChiTietDichVu
+(
+	MaHD INT NOT NULL,
+	MaDV INT NOT NULL,
+	SoLuong INT NOT NULL,
+	DonGia DECIMAL(18, 2) NOT NULL,
+	PRIMARY KEY (MaHD, MaDV),
+	KEY IX_ChiTietDichVu_MaDV (MaDV),
+	CONSTRAINT FK_ChiTietDichVu_HoaDon FOREIGN KEY (MaHD)
+		REFERENCES HoaDon (MaHD),
+	CONSTRAINT FK_ChiTietDichVu_DichVu FOREIGN KEY (MaDV)
+		REFERENCES DichVu (MaDV),
+	CONSTRAINT CK_ChiTietDichVu_SoLuong CHECK (SoLuong > 0),
+	CONSTRAINT CK_ChiTietDichVu_DonGia CHECK (DonGia >= 0)
+) ENGINE = InnoDB;
+
+INSERT INTO PhongHat (TenPhong, LoaiPhong, GiaTheoGio)
+SELECT seed.TenPhong, seed.LoaiPhong, seed.GiaTheoGio
+FROM (
+	SELECT 'Phòng VIP 01' AS TenPhong, 'VIP' AS LoaiPhong, 300000.00 AS GiaTheoGio
+	UNION ALL SELECT 'Phòng VIP 02', 'VIP', 300000.00
+	UNION ALL SELECT 'Phòng Thường 01', 'Thường', 150000.00
+	UNION ALL SELECT 'Phòng Thường 02', 'Thường', 150000.00
+) AS seed
+WHERE NOT EXISTS (SELECT 1 FROM PhongHat WHERE TenPhong = seed.TenPhong);
+
+INSERT INTO DichVu (TenDV, DonGia, TonKho)
+SELECT seed.TenDV, seed.DonGia, seed.TonKho
+FROM (
+	SELECT 'Bia Heineken' AS TenDV, 30000.00 AS DonGia, 100 AS TonKho
+	UNION ALL SELECT 'Nước suối', 10000.00, 100
+	UNION ALL SELECT 'Nước ngọt', 20000.00, 100
+	UNION ALL SELECT 'Trái cây dĩa', 80000.00, 30
+	UNION ALL SELECT 'Khăn lạnh', 5000.00, 100
+) AS seed
+WHERE NOT EXISTS (SELECT 1 FROM DichVu WHERE TenDV = seed.TenDV);
